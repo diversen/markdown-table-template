@@ -1,0 +1,23 @@
+{
+  "name": "markdown-table-template",
+  "version": "1.0.0",
+  "description": "tiny lib for creating markdown table templates from number of rows and columns",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diversen/markdown-table-template.git"
+  },
+  "keywords": [
+    "markdown",
+    "table"
+  ],
+  "author": "dennis iversen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/diversen/markdown-table-template/issues"
+  },
+  "homepage": "https://github.com/diversen/markdown-table-template#readme"
+}
