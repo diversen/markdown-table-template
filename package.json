@@ -1,6 +1,6 @@
 {
   "name": "markdown-table-template",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "tiny lib for creating markdown table templates from number of rows and columns",
   "main": "index.js",
   "scripts": {
