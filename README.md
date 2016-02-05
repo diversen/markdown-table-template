@@ -9,7 +9,7 @@ example:
     console.log(table.create(1,1)); // 1 row and 1 col
     console.log(table.create(3,7)); // 3 rows and 7 cols
 
-Like this: 
+yields: 
 
     |0:0|
 
