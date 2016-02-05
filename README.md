@@ -4,10 +4,17 @@ tiny js lib for creating markdown table templates from number of rows and column
 
 example: 
 
-    var table = require("markdown-table-template");
-    console.log(table.create(0,0)); // nothing
-    console.log(table.create(1,1)); // 1 row and 1 col
-    console.log(table.create(3,7)); // 3 rows and 7 cols
+Node-like systems: 
+
+    var mdtable = require("markdown-table-template");
+
+Browser: 
+
+    // <script src = "dist/mdtable.js"></script>
+
+    console.log(mdtable.create(0,0)); // nothing
+    console.log(mdtable.create(1,1)); // 1 row and 1 col
+    console.log(mdtable.create(3,7)); // 3 rows and 7 cols
 
 yields: 
 
